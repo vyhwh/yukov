@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><style>
+    .moon {
+      fill: #000;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .moon {
+        fill: #fff;
+      }
+    }
+  </style><path class="moon" d="
+      M 367 96
+      C 292 101, 237 158, 237 226
+      C 237 302, 299 363, 375 363
+      C 405 363, 433 354, 457 340
+      C 437 414, 369 467, 289 467
+      C 184 467, 99 382, 99 277
+      C 99 181, 169 101, 263 89
+      C 298 84, 334 86, 367 96
+      Z
+    "></path></svg>
